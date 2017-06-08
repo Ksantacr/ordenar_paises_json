@@ -1,0 +1,20 @@
+body{
+    font-size: 1.1em;
+    font-family: sans-serif;
+}
+table{
+    border-collapse: collapse;
+}
+th {
+    background-color: #333;
+    color:#ccc;
+}
+tr{
+    border-bottom: 1px solid #777;
+}
+td, th{
+    padding: .5em 1.2em;
+}
+li{
+    display: block;
+}
